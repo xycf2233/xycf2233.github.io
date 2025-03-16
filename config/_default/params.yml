@@ -24,7 +24,7 @@ author: 小羊炒饭
 description: "have fun!"
 subtitle: "have fun!"
 
-banner: "images/banner.webp"
+banner: "images/labixiaoxin/labixiaoxin_2.jpeg"
 # You can also write it in the form of the following url
 # banner: "https://example.com"
 
@@ -324,7 +324,7 @@ algolia_search:
 
 preloader:
   enable: true
-  text: 少女祈祷中...
+  text: 加载中...
   icon: # default use inline svg for fast speed, you can use a image url, like '/images/taichi.png'
 
 # see https://github.com/D-Sketon/aos.js
@@ -448,7 +448,7 @@ share:
   # - qq
   # - weixin
 
-# show categories card on home page
+# 在主页上显示类别卡片
 home_categories:
   enable: false
   content:
